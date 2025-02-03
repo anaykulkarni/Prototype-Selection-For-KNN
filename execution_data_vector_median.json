@@ -1,0 +1,32 @@
+[
+    {
+        "sample_size": 100,
+        "time": 2.4070070839952677,
+        "accuracy": 0.7371
+    },
+    {
+        "sample_size": 500,
+        "time": 11.790828333003446,
+        "accuracy": 0.7743
+    },
+    {
+        "sample_size": 1000,
+        "time": 23.356013667071238,
+        "accuracy": 0.7866
+    },
+    {
+        "sample_size": 2000,
+        "time": 54.82392333401367,
+        "accuracy": 0.8069
+    },
+    {
+        "sample_size": 5000,
+        "time": 136.19325824989937,
+        "accuracy": 0.826
+    },
+    {
+        "sample_size": 10000,
+        "time": 270.5017929999158,
+        "accuracy": 0.8508
+    }
+]

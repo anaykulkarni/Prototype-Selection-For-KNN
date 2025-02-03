@@ -1,0 +1,253 @@
+{
+    "3": [
+        {
+            "sample_size": 100,
+            "time": 1.8268012499902397,
+            "accuracy": 0.7574
+        },
+        {
+            "sample_size": 500,
+            "time": 8.498229125048965,
+            "accuracy": 0.8588
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.345718082971871,
+            "accuracy": 0.8871
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.158515500137582,
+            "accuracy": 0.914
+        },
+        {
+            "sample_size": 5000,
+            "time": 85.98306483286433,
+            "accuracy": 0.9397
+        },
+        {
+            "sample_size": 10000,
+            "time": 141.75013504200615,
+            "accuracy": 0.9496
+        }
+    ],
+    "4": [
+        {
+            "sample_size": 100,
+            "time": 1.4581139162182808,
+            "accuracy": 0.7707
+        },
+        {
+            "sample_size": 500,
+            "time": 7.104974916903302,
+            "accuracy": 0.8691
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.319463541964069,
+            "accuracy": 0.8899
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.40702004195191,
+            "accuracy": 0.915
+        },
+        {
+            "sample_size": 5000,
+            "time": 70.82735837507062,
+            "accuracy": 0.9389
+        },
+        {
+            "sample_size": 10000,
+            "time": 142.51736641698517,
+            "accuracy": 0.9481
+        }
+    ],
+    "8": [
+        {
+            "sample_size": 100,
+            "time": 1.4572781659662724,
+            "accuracy": 0.8128
+        },
+        {
+            "sample_size": 500,
+            "time": 7.141054958105087,
+            "accuracy": 0.8931
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.252767625031993,
+            "accuracy": 0.9141
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.430076957913116,
+            "accuracy": 0.9288
+        },
+        {
+            "sample_size": 5000,
+            "time": 70.7861093331594,
+            "accuracy": 0.9422
+        },
+        {
+            "sample_size": 10000,
+            "time": 142.7104032090865,
+            "accuracy": 0.9503
+        }
+    ],
+    "16": [
+        {
+            "sample_size": 100,
+            "time": 1.4466233751736581,
+            "accuracy": 0.8352
+        },
+        {
+            "sample_size": 500,
+            "time": 7.036432583117858,
+            "accuracy": 0.9091
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.17981204111129,
+            "accuracy": 0.9273
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.211004292126745,
+            "accuracy": 0.9367
+        },
+        {
+            "sample_size": 5000,
+            "time": 71.71057550003752,
+            "accuracy": 0.9475
+        },
+        {
+            "sample_size": 10000,
+            "time": 145.500642583007,
+            "accuracy": 0.953
+        }
+    ],
+    "64": [
+        {
+            "sample_size": 100,
+            "time": 1.4967192080803216,
+            "accuracy": 0.8539
+        },
+        {
+            "sample_size": 500,
+            "time": 7.135864292038605,
+            "accuracy": 0.9176
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.218935000011697,
+            "accuracy": 0.9315
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.801843125140294,
+            "accuracy": 0.9398
+        },
+        {
+            "sample_size": 5000,
+            "time": 71.34912291704677,
+            "accuracy": 0.9531
+        },
+        {
+            "sample_size": 10000,
+            "time": 142.18628870788962,
+            "accuracy": 0.9576
+        }
+    ],
+    "128": [
+        {
+            "sample_size": 100,
+            "time": 1.4647829581517726,
+            "accuracy": 0.8588
+        },
+        {
+            "sample_size": 500,
+            "time": 7.083067124942318,
+            "accuracy": 0.9158
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.240866250125691,
+            "accuracy": 0.9318
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.303543540881947,
+            "accuracy": 0.9428
+        },
+        {
+            "sample_size": 5000,
+            "time": 70.94642516691238,
+            "accuracy": 0.9524
+        },
+        {
+            "sample_size": 10000,
+            "time": 142.1833509169519,
+            "accuracy": 0.9566
+        }
+    ],
+    "256": [
+        {
+            "sample_size": 100,
+            "time": 1.4629101250320673,
+            "accuracy": 0.8686
+        },
+        {
+            "sample_size": 500,
+            "time": 7.114130040863529,
+            "accuracy": 0.9171
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.26494683418423,
+            "accuracy": 0.9333
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.384349167114124,
+            "accuracy": 0.9438
+        },
+        {
+            "sample_size": 5000,
+            "time": 72.00678891711868,
+            "accuracy": 0.9513
+        },
+        {
+            "sample_size": 10000,
+            "time": 140.4455548331607,
+            "accuracy": 0.9556
+        }
+    ],
+    "512": [
+        {
+            "sample_size": 100,
+            "time": 1.472850832855329,
+            "accuracy": 0.8638
+        },
+        {
+            "sample_size": 500,
+            "time": 7.099487750092521,
+            "accuracy": 0.9175
+        },
+        {
+            "sample_size": 1000,
+            "time": 14.125611457973719,
+            "accuracy": 0.9331
+        },
+        {
+            "sample_size": 2000,
+            "time": 28.65542004094459,
+            "accuracy": 0.9423
+        },
+        {
+            "sample_size": 5000,
+            "time": 70.41962012508884,
+            "accuracy": 0.9538
+        }
+    ]
+}
